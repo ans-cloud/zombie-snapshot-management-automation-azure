@@ -42,7 +42,7 @@
                             "recurrence": {
                                 "frequency": "Month",
                                 "interval": 1,
-                                "startTime": "2020-12-01T00:00:00Z",
+                                "startTime": "2099-12-01T00:00:00Z",
                                 "timeZone": "UTC"
                             },
                             "type": "Recurrence"
