@@ -1,5 +1,8 @@
 # ANS Zombie Snapshot Management Automation for Azure
 
+*** WARNING: This will delete any managed disk snapshots WITHOUT prompting for confirmation ***
+
+
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fans-cloud%2Fzombie-snapshot-management-automation-azure%2Fmain%2Fazure-deploy.json)
 
 
